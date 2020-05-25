@@ -1,0 +1,8 @@
+const COUNTER = {
+    INCREMENT: 'INCREMENT',
+    DECREMENT: 'DECREMENT',
+    SIGNIN: 'SIGNIN',
+    SIGNOUT: 'SIGNOUT'
+}
+
+export { COUNTER };
